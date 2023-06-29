@@ -1,0 +1,169 @@
+body{
+    background-color: #4a728a;
+  }
+  .container{
+  
+    width: 90%;
+  
+    margin: 50px auto;
+  
+    border: 2px black solid;
+  
+    padding: 0 10px;
+    background-color:#659DBD;
+  
+  
+  }
+  
+  
+  
+  ul li{
+  
+    list-style: none;
+  
+  }
+  
+  
+  
+  
+  
+  /* colors container */
+  
+  
+  
+  ul.colors li {
+  
+    display: inline-block;
+  
+    text-align: center;
+  
+    width: 150px;
+    height: 80px;
+    padding: 10px;
+  
+    
+  
+  }
+  
+  
+  
+  .color-name {
+  
+    display: block;
+  
+  }
+  
+  
+  
+  .midnight-blue{
+  
+    background-color: #41729F;
+    color: #f5f5dc;
+  }
+  
+  .blue-gray{
+  
+    background-color: #5885AF;
+    color: #f5f5dc;
+  }
+  
+  .dark-blue{
+  
+    background-color: #274472;
+    color: #f5f5dc;
+  }
+  
+  .baby-blue{
+  
+    background-color: #c3e0e5;
+    color: #f5f5dc;
+  }
+  
+  .tan{
+    background-color: #B68D40;
+    color: #f5f5dc;
+  }
+  
+  .cream {
+    background-color: #F4EBD0;
+    color: rgb(22, 22, 22)
+  }
+  
+  .charcoal{
+    background-color: #122620;
+    color: #f5f5dc;
+  }
+  
+  .gold{
+    background-color: #D6AD60;
+    color: #f5f5dc;
+  }
+  
+  
+  
+  /* fonts */
+  
+  .fonts{
+    font-size: 20px;
+    font-weight: 400px;
+  }
+  
+  .source-code-pro{
+  
+    font-family: 'Source Code Pro', monospace;
+    
+    
+  }
+  .nunito-sans{
+    font-family: 'Nunito Sans', sans-serif;
+    
+  }
+  
+  .poppins{
+    font-family: 'Poppins', sans-serif;
+    
+  
+  }
+  
+  
+  .second{
+    font-weight: bold;
+  }
+  .third{
+    font-style: italic;
+  }
+  
+  .fonts a{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .fonts a:hover{
+    text-decoration: none;
+    color: blue
+  }
+  .fonts a:active{
+    color: gray;
+  
+  }
+  
+  
+  /* Text Styles */
+  
+  h1{
+    font-weight: 700;
+    font-size: 26px;
+    font-family: Nunito Sans;
+  }
+  
+  h2{
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  p{
+    font-family: 400;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+  }
